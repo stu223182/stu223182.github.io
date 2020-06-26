@@ -8,3 +8,5 @@ I'm a student of business informatics in the second semester. Now I want to lear
 * Student
 * Streamer https://www.twitch.tv/tanker22
 * Also Lazy ;P
+
+> Erwachsen? Kann ich!
