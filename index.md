@@ -10,3 +10,5 @@ I'm a student of business informatics in the second semester. Now I want to lear
 * Also Lazy ;P
 
 > Erwachsen? Kann ich!
+
+<img src="https://i.redd.it/hkwhj3vbz1z11.png"/>
